@@ -20,4 +20,4 @@ Para compilar y ejecutar el código se puede utilizar `ant` o `make`
 Todos los ejercicios han sido diseñados por el profesor responsable de la asignatura de Sistemas Distribuidos de la Universidad de León en el año 2021. Algunas porciones de código han sido proporcionadas por el profesor para el uso de los alumnos. 
 
 ## Contacto
-Para cualquier consulta relacionada con este repositorio, utilizad los medios de contacto que se encuentran en mi perfil https://github.com/amigueldiez
+Para cualquier consulta relacionada con este repositorio, utilizad los medios de contacto que se encuentran en mi [perfil](https://github.com/amigueldiez). 
